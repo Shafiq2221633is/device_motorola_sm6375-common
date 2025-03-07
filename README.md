@@ -1,3 +1,4 @@
+
 Device configuration for Motorola SM6375/SM4350 (blair/holi)
 
 ## Copyright
